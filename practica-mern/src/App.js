@@ -22,7 +22,7 @@ function App() {
           Angular
 
         </div>
-       
+         
 
         </div>
         <a
