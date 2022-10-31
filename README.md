@@ -1,4 +1,4 @@
-# MyTyneraryDC
+# PracticaMern
 
 
 App Mytinerary
