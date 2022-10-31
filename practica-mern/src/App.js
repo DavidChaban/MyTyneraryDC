@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import lofo from "./"
+
 import './App.css';
 
 function App() {
